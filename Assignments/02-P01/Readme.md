@@ -7,7 +7,7 @@ display with a defined width and height. A few variables for the game state, inc
 the code.The code contains numerous functions, such as draw over, which displays a "Game Over" message after the game is over, and take turn, which modifies the game's
 state based on a player-specified direction (up, down, left, or right). 
 
-### Files
+###Files
 
 |   #   | File                                                     | Description                                        |
 | :---: | ---------------------------------------------------------| -------------------------------------------------- |
