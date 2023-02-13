@@ -11,4 +11,4 @@ state based on a player-specified direction (up, down, left, or right).
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [Readme.md](/Assignments/02-P01)         | Main driver of my project that launches game.      |
+|   1   | [Readme.md](/Assignments/02-P01)                                     | Main driver of my project that launches game.      |
