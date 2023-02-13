@@ -14,7 +14,7 @@ state based on a player-specified direction (up, down, left, or right).
 |   1   | [Game.py](/Assignments/02-P01/game.py)                   | Main driver of my project that launches game.      |
 |   2   | [Smiley.png](/Assignments/02-P01/smiley.png)             | image of the animation                             |     
 |   3   | [Highscore.txt](/Assignments/02-P01/highscore.txt)       | Highscore of the Game                              |
-|   4   | [screenshots](/Assignments/02-P01/Screenshots)           | Images of Results                                  |
+|   4   | [screenshots](/Assignments/02-P01/Screenshots.png)           | Images of Results                                  |
 
 ###Instructions:
 - Make sure you install library `.py`
