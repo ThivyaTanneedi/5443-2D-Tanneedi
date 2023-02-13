@@ -1,5 +1,5 @@
 ## 2048
-## T.L.N.S.thivya,Divya Podila
+## T.L.N.S.Thivya,Divya Podila
 ## Description:
 
 The Pygame module is being used in this code to create a game of 2048. The code loads an image of a smiley face, configures a timer and typeface, and sets up the 
