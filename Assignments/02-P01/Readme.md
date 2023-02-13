@@ -17,5 +17,6 @@ state based on a player-specified direction (up, down, left, or right).
 |   4   | [Screenshots.png](/Assignments/02-P01/Screenshots.png)           | Images of Results                                  |
 
 ###Instructions:
-- Make sure you install library `.py`
-- 
+- Make sure you install library `pygame.py`
+- When you run the program, you will have to use the arrow keys to move the tiles.
+- Also make sure to add smiley.png and high score files for the program to run without errors.
